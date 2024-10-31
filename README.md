@@ -18,7 +18,7 @@ Para executar o projeto, siga os passos abaixo:
     ```
 3. Compile o código:
     ```sh
-        g++ src/*.cpp -o programa
+    g++ src/*.cpp -o programa
     ```
 4. Execute o programa:
     ```sh
